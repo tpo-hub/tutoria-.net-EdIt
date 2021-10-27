@@ -31,5 +31,10 @@ namespace _2_proyecto_educacionIt.utilidades
         {
             return $"Por favor, ingrese su {tipoIngreso}:   ";
         }
+
+        public string bloqueo()
+        {
+            return "su cuenta a sido bloqueada, por favor dirigase a la sucursal mas cercana";
+        }
     }
 }

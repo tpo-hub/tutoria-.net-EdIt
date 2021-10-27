@@ -1,3 +1,5 @@
+using _2_proyecto_educacionIt.utilidades;
+
 namespace _2_proyecto_educacionIt
 {
     public class Mapeo
@@ -26,12 +28,13 @@ namespace _2_proyecto_educacionIt
 
         public bool BloqueoDeCuenta(int intentos)
         {
+            var ui = new helpersUI();
             
             if(intentos != 3)
             {
                 return true; 
             }
-  
+            System.Console.WriteLine(ui.bloqueo());
             return false;
         }
     }
