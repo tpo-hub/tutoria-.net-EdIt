@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Legislatura\\Desktop\\Net Core\\proyecto educacionIt\\proyecto educacionIt.csproj",
+      "projectUniqueName": "c:\\Users\\Legislatura\\Desktop\\Net Core\\tutoria-.net-EdIt\\proyecto educacionIt\\proyecto educacionIt.csproj",
       "projectName": "proyecto educacionIt",
-      "projectPath": "C:\\Users\\Legislatura\\Desktop\\Net Core\\proyecto educacionIt\\proyecto educacionIt.csproj",
+      "projectPath": "c:\\Users\\Legislatura\\Desktop\\Net Core\\tutoria-.net-EdIt\\proyecto educacionIt\\proyecto educacionIt.csproj",
       "packagesPath": "C:\\Users\\Legislatura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Legislatura\\Desktop\\Net Core\\proyecto educacionIt\\obj\\",
+      "outputPath": "c:\\Users\\Legislatura\\Desktop\\Net Core\\tutoria-.net-EdIt\\proyecto educacionIt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

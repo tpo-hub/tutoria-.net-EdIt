@@ -112,7 +112,7 @@ namespace proyecto_educacionIt
             {
                 return true; 
             }
-  
+            Console.WriteLine("Usuario Bloqueado, por favor dirijase a la sucursal mas cercana");
             return false;
         }
     }
